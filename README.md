@@ -1,6 +1,6 @@
 ﻿# Baithak & Co. — Café Website
 
-A modern, production-ready website for **Baithak & Co.** located in Jaitala, Nagpur. Converted faithfully from Google Stitch design into a responsive Next.js application.
+A modern, production-ready website for **Baithak & Co.** located in Jaitala, Nagpur.
 
 ---
 
